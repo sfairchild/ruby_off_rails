@@ -1,5 +1,5 @@
 
-# Ruby off the Rails
+# ruby_off_rails
 
 From the terminal, pop in:
 
