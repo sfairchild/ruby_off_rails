@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Ruby off the Rails",
+    "packageVersion": "0.0.1",
+    "useSass": true,
+    "deployToGithubPages": true,
+    "githubUsername": "sfairchild",
+    "githubRepository": "ruby_off_rails"
+  }
+}
