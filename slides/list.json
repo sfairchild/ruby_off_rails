@@ -1,4 +1,24 @@
 [
     "intro.md",
-    "overview.md"
+    "overview.md",
+    [
+        {
+            "filename": "thor.md",
+            "attr": {
+                "data-background": "#D2B720"
+            }
+        },
+        {
+            "filename": "install-thor.md",
+            "attr": {
+                "data-background": "#D2B720"
+            }
+        }
+    ],
+    {
+        "filename": "simple-thor.md",
+        "attr": {
+            "data-background": "#ff0000"
+        }
+    }
 ]
